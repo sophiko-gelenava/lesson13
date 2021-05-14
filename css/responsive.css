@@ -1,0 +1,12 @@
+@media (max-width:1073px) {
+    .right-block,
+    .btn-send {
+        max-width: 720px;
+    }
+    .container {
+        padding: 0 15px;
+    }
+    .form-wraper {
+        justify-content: center;
+    }
+}
